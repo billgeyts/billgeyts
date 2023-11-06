@@ -1,0 +1,135 @@
+@media ( max-width:991px){
+    .banner-title{
+        font-size: 40px;
+
+    }
+    .banner-tex{
+        font-size: 0px;
+    }
+    .btn-orange{
+        font-size: 15px;
+    }
+    .info-content{
+        height: 400px;
+    }
+    .content-item {
+        padding: 20px;
+        width: 300px;
+        height: 100px;
+    }
+    .title{
+        font-size: 40px;
+    }
+    .subtitle{
+        font-size: 15px;
+    }
+    .subtitle::before{
+        width: 55px;
+    }
+    
+
+.card-title {
+    font-size: 40px;
+}
+.card-text{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.carousel-title{
+    font-size: 35px;
+}
+.carousel-text{
+    font-size: 17px;
+}
+.carousel-subtitle{
+    font-size: 15px;
+}
+.carousel-control-next{
+    width: 50px;
+    height: 40px
+}
+.carousel-control-prev{
+    width: 50px;
+    height: 40px
+}
+.info-text{
+    flex-direction: column;
+}
+
+}
+@media(max-width:700px){
+    .banner-title{
+        font-size: 35px;
+
+    }
+    .info-content{
+        height: 350px;
+    }
+    .content-item_count{
+        font-size: 30px;
+    }
+    .content-item_desc{
+        font-size: 17px;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .subtitle::before{
+        width: 40px;
+    }
+    .carousel-control-next{
+        width: 40px;
+        height: 35px
+    }
+    .carousel-control-prev{
+        width: 40px;
+        height: 35px
+    }
+    .project-subtitle::before {
+        width:47px;
+        left: 35%;
+    }
+    .project-subtitle::after{
+        width:47px;
+        right:  35%;
+    }
+    
+}
+@media(max-width:520px){
+    .banner-title{
+        font-size: 30px;
+
+    }
+    .content-item{
+        width: 250px;
+        padding: 10 px;
+    }
+    .content-item_desc{
+        font-size: 14px;
+    }
+    .top{
+        top: 0;
+        left: 0;
+    }
+    .bottom{
+        right: 0px;
+        bottom: 0px;
+    }
+    .card-title {
+        font-size: 30px;
+    }
+    .project-subtitle::before {
+        width:47px;
+        left: 24%;
+    }
+    .project-subtitle::after{
+        width:47px;
+        right:  24%;
+    }
+    element.style {
+        width: 300px;
+    }
+    }
